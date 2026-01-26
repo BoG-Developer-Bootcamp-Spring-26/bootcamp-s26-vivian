@@ -8,7 +8,7 @@ In this exercise, bootcampers will familiarize themselves with JS syntax and con
 
 Collect points for this exercise by creating and having the correct contents for the GitHub repo specified in the Instructions. To get full points, make sure to have implemented **all the functions** in both `warmUp.js` and `chooseTheTrain.js`!
 
-- **Due Date**: 9-16-2025
+- **Due Date**: 2/17 (end of work day)
 
 ## Instructions
 
